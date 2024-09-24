@@ -1,1 +1,1 @@
-# mobilr price classification.
+# mobile price classification.
